@@ -1,0 +1,21 @@
+# Farmer Crop Seller Website
+
+This is a simple, static website built for farmers to sell their crops online. It provides an overview of available products, contact information, and a detailed "About Us" page.
+
+## Features
+- List crops/products for sale.
+- Simple contact form for customer inquiries.
+- Mobile responsive layout.
+- Informative pages about the farmer's business.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- python flask
+- MySQL 
+
+## Setup
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/farmer-crop-saler-website.git
