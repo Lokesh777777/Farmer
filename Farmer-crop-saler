@@ -15,7 +15,3 @@ This is a simple, static website built for farmers to sell their crops online. I
 - python flask
 - MySQL 
 
-## Setup
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/farmer-crop-saler-website.git
