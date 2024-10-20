@@ -1,3 +1,4 @@
+This project is created by me and my team for selection of prelims round in hackintym [hackathon]
 Crop Connect: A DBMS Solution for Farmers
 
 Welcome to Crop Connect, a robust and efficient Database Management System (DBMS) built using Flask and MySQL. This project bridges the gap between crop sellers and buyers, providing a seamless platform for transactions. With a focus on user-friendly interfaces and reliable data management, Crop Connect empowers farmers to reach a wider market and buyers to find the best produce.
